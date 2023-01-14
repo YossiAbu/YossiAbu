@@ -13,12 +13,13 @@
 
 ### :man_technologist: About Me :
 
-I am a 4th year software engineer student :man_student: from Israel.
+I am a 4th year software engineer student in data science majority :man_student: from Israel.
 
 
-- :microscope: Data Science majority.
+- :microscope: Creation and training models.
+- :trophy: Competitor on kaggle website.
 - :zap: In my free time, I solve problems in leetcode and read tech articles.
-
+- :mailbox:How to reach me: yossiabu6590@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
