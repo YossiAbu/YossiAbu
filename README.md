@@ -15,11 +15,11 @@
 
 Recent software engineering graduate specializing in data science, skilled in full-stack development.
 
-- :website: My website: https://yossiabu.github.io/portfolio/
+- :technology: My website: https://yossiabu.github.io/portfolio/
 - :microscope: Creation and training models.
 - :trophy: Competitor on kaggle website.
 - :zap: In my free time, I solve problems in leetcode and read tech articles.
-- :mailbox:How to reach me: yossiabu6590@gmail.com
+- :mailbox: How to reach me: yossiabu6590@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
