@@ -15,7 +15,7 @@
 
 Recent software engineering graduate specializing in data science, skilled in full-stack development.
 
-
+- :website: My website: https://yossiabu.github.io/portfolio/
 - :microscope: Creation and training models.
 - :trophy: Competitor on kaggle website.
 - :zap: In my free time, I solve problems in leetcode and read tech articles.
