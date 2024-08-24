@@ -14,8 +14,8 @@
 ### :man_technologist: About Me :
 
 Recent software engineering graduate specializing in data science, skilled in full-stack development.
-<br>
-My website: https://yossiabu.github.io/portfolio/
+<br> <br>
+:globe_with_Meridians: My website: https://yossiabu.github.io/portfolio/
 
 - :microscope: Creation and training models.
 - :trophy: Competitor on kaggle website.
