@@ -15,7 +15,7 @@
 
 Recent software engineering graduate specializing in data science, skilled in full-stack development.
 <br> <br>
-:globe_with_Meridians: My website: https://yossiabu.github.io/portfolio/
+:globe_with_meridians: My website: https://yossiabu.github.io/portfolio/
 
 - :microscope: Creation and training models.
 - :trophy: Competitor on kaggle website.
